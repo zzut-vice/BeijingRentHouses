@@ -12,7 +12,8 @@ def main():
     st.title("在Streamlit中嵌入PDF文件")
     st.subheader("Learn Streamlit")
 
-    st_display_pdf("https://github.com/zzut-vice/BeijingRentHouses/blob/main/%E5%8C%97%E4%BA%AC%E4%BD%8F%E6%88%BF.pdf")
+#     st_display_pdf("https://github.com/zzut-vice/BeijingRentHouses/blob/main/%E5%8C%97%E4%BA%AC%E4%BD%8F%E6%88%BF.pdf")
+    st_display_pdf("北京住房.pdf")
 
 if __name__ == '__main__':
     main()
